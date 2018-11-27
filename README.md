@@ -6,7 +6,6 @@ An Open Source dApp generation tool for Ethereum Smart Contracts
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/rover-it.svg)](https://npmjs.org/package/rover-it)
 [![CircleCI](https://circleci.com/gh/ravidsrk/rover-it/tree/master.svg?style=shield)](https://circleci.com/gh/ravidsrk/rover-it/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/ravidsrk/rover-it?branch=master&svg=true)](https://ci.appveyor.com/project/ravidsrk/rover-it/branch/master)
 [![Codecov](https://codecov.io/gh/ravidsrk/rover-it/branch/master/graph/badge.svg)](https://codecov.io/gh/ravidsrk/rover-it)
 [![Downloads/week](https://img.shields.io/npm/dw/rover-it.svg)](https://npmjs.org/package/rover-it)
 [![License](https://img.shields.io/npm/l/rover-it.svg)](https://github.com/ravidsrk/rover-it/blob/master/package.json)
